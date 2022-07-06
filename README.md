@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vibsaa (Vibhanshu Sharma) an M.Tech Graduate in Embedded Systems & VLSI Design.
+- 👋 Hi, I’m @vibsaa (Vibhanshu Sharma) an electronics engineer working at AMD India with an M.Tech degree in Embedded Systems & VLSI Design.
 - 👀 I’m in love with Digital System Design and Verification *Sometimes I cheat on it with Analog electronics* 
 - 🌱 I’m currently learning System Verilog & UVM
-- 💞️ I’m looking to collaborate on my repository /OpenSourceVerilog. I have an aim to add as many codes (all levels) to it as possible.
+- 💞️ I’m looking to collaborate on my repository /OpenSourceVerilog. I am aiming to add as many codes (all levels) to it as possible.
 - 📫 How to reach me? You could just write me at my E-Mail: vibhanshusharma04@gmail.com. More details @ vibhanshusharma.me
 
 <!---
